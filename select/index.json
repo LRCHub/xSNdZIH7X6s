@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "はじめての世界征服",
+  "base_artist": "笹川真生",
+  "createdAt": "2025-12-03T14:21:41.971392Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はじめての世界征服",
+      "artist": "笹川真生",
+      "has_synced": false,
+      "path": "select/pl_01_はじめての世界征服_笹川真生.txt"
+    }
+  ]
+}
